@@ -1,6 +1,6 @@
 This repository houses Java programs focused on generating various number-related patterns and sequences. These programs are designed to help developers practice fundamental programming concepts such as loops, conditional statements, and arithmetic operations.
 
-## Programs Included
+Programs Included
 
 - *Fibonacci Series*
   - Generates Fibonacci sequence up to a specified number of terms.
